@@ -1,0 +1,42 @@
+_repo: Travels-with-a-Donkey-in-the-Cevennes_535
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: Travels with a Donkey in the Cévennes (1879) is one of Robert Louis Stevenson's
+  earliest published works and is considered a pioneering classic of outdoor literature.
+  Stevenson was in his late 20s and still dependent on his parents for support. Travels
+  was both meant to raise money he needed to be with the woman he loved, and provide
+  adventure Stevenson craved, being sickly much of his life. Travels recounts Stevenson's
+  12-day, 120-mile solo hiking journey through the sparsely populated and impoverished
+  areas of the Cévennes mountains in south-central France ...
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stevenson, Robert Louis, 1850-1894 -- Travel -- France -- Cévennes Mountains'
+- !lcsh 'Cévennes Mountains (France) -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Authors, Scottish -- 19th century -- Biography'
+- GITenberg
+title: Travels with a Donkey in the Cevennes
+url: http://www.gutenberg.org/ebooks/535
